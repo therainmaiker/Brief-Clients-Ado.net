@@ -1,0 +1,13 @@
+C:\Users\Youcode\source\repos\Brief\Brief\bin\Debug\netcoreapp3.1\Brief.exe
+C:\Users\Youcode\source\repos\Brief\Brief\bin\Debug\netcoreapp3.1\Brief.deps.json
+C:\Users\Youcode\source\repos\Brief\Brief\bin\Debug\netcoreapp3.1\Brief.runtimeconfig.json
+C:\Users\Youcode\source\repos\Brief\Brief\bin\Debug\netcoreapp3.1\Brief.runtimeconfig.dev.json
+C:\Users\Youcode\source\repos\Brief\Brief\bin\Debug\netcoreapp3.1\Brief.dll
+C:\Users\Youcode\source\repos\Brief\Brief\bin\Debug\netcoreapp3.1\Brief.pdb
+C:\Users\Youcode\source\repos\Brief\Brief\obj\Debug\netcoreapp3.1\Brief.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\Brief\Brief\obj\Debug\netcoreapp3.1\Brief.AssemblyInfoInputs.cache
+C:\Users\Youcode\source\repos\Brief\Brief\obj\Debug\netcoreapp3.1\Brief.AssemblyInfo.cs
+C:\Users\Youcode\source\repos\Brief\Brief\obj\Debug\netcoreapp3.1\Brief.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\Brief\Brief\obj\Debug\netcoreapp3.1\Brief.dll
+C:\Users\Youcode\source\repos\Brief\Brief\obj\Debug\netcoreapp3.1\Brief.pdb
+C:\Users\Youcode\source\repos\Brief\Brief\obj\Debug\netcoreapp3.1\Brief.genruntimeconfig.cache
